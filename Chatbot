@@ -1,6 +1,6 @@
 import os
 import openai
-openai.api_key = "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"
+openai.api_key = "ENTER API-KEY"
 
 messages = []
 while True:
